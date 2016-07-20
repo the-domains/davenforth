@@ -1,0 +1,14 @@
+layout_spectrum: 0.4450610934291035
+typography_spectrum: 0.37837558169849217
+color:
+  brandStrength: 0.17307938868179917
+  lightness: 0.4693982854951173
+  saturation: 0.1649913266301155
+  rhythmicContrast: 0.6829801984131336
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: davenforth
